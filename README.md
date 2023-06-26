@@ -14,7 +14,7 @@ Este projeto é um aplicativo financeiro que simula o fluxo de criação de um c
 # Tecnologias utilizadas
   * Clean architecture
   * Testes unitários: Infra, Validation, Data, Presentation e Main 
-  * Design patterns: Observer, Factory, Decorator e Composite
+  * Design patterns: Factory, Decorator e Composite
   * Design System: MVP-R
   * SOLID
 
